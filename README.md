@@ -1,3 +1,3 @@
 # Linkedin-Clone
 ## Kodluyoruz Çalışması
-![Clone](https://github.com/metinyegencik/Landify-Clone/blob/main/Landify%20image.png)
+![Clone](https://github.com/metinyegencik/Linkedin-Clone/blob/main/Linkedin/linkedin.png)
